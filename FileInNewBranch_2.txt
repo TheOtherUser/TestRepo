@@ -1,0 +1,1 @@
+FileInNewBranch_2.txt with content
